@@ -3,14 +3,14 @@
  
 <p>I have contributed around 200+ commits to this project during the fellowship phase which ended in July 2023.</p>
 
-<h3>Original repository</h3>
-![mainpageOriginal.png](readme%20images%2FmainpageOriginal.png)
+<h3>Original repository (private)</h3>
+![alt text](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpageOriginal.png?raw=true)
 
-<h3>Project Screenshots(All my contributions)<h3>
-![main_page1.png](readme%20images%2Fmain_page1.png)
-![mainpage2.png](readme%20images%2Fmainpage2.png)
-![mainpage3.png](readme%20images%2Fmainpage3.png)
-![mainpage4.png](readme%20images%2Fmainpage4.png)
-![mainpage5.png](readme%20images%2Fmainpage5.png)
-![mainpage6.png](readme%20images%2Fmainpage6.png)
-![mainpage7.png](readme%20images%2Fmainpage7.png)
+<h3>Project Screenshots (All my contributions)<h3>
+![main_page1.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/main_page1.png?raw=true)
+![main_page2.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage2.png?raw=true)
+![main_page3.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage3.png?raw=true)
+![main_page4.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage4.png?raw=true)
+![main_page5.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage5.png?raw=true)
+![main_page6.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage6.png?raw=true)
+![main_page7.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage7.png?raw=true)
