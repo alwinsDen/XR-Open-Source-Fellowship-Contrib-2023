@@ -3,14 +3,15 @@
  
 <p>I have contributed around 200+ commits to this project during the fellowship phase which ended in July 2023.</p>
 
-<h3>Original repository (private)</h3>
-![alt text](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpageOriginal.png?raw=true)
+## Original repository (private)
 
-<h3>Project Screenshots (All my contributions)<h3>
-![main_page1.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/main_page1.png?raw=true)
-![main_page2.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage2.png?raw=true)
-![main_page3.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage3.png?raw=true)
-![main_page4.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage4.png?raw=true)
-![main_page5.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage5.png?raw=true)
-![main_page6.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage6.png?raw=true)
-![main_page7.png](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/blob/main/readme%20images/mainpage7.png?raw=true)
+![mainpageOriginal](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/e67047d7-f381-4aab-b514-b0d7a081bb9e)
+
+## Project Screenshots (All my contributions)
+![main_page1](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/e5bf1b55-4d45-4156-98a3-25e6f32bca6a)
+![mainpage2](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/86f629a7-672f-4ee7-80e3-5d3b0f5cb222)
+![mainpage3](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/f229b13b-8e0b-4f95-94ba-d5304e08d289)
+![mainpage4](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/10a6f495-07ab-4818-a879-72ef45b6768a)
+![mainpage5](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/c1c3f7ef-f97d-4b0f-819c-5df29d7e7bda)
+![mainpage6](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/a5c02833-4507-403d-a183-b933bfec2a64)
+![mainpage7](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/70904b7a-8d1a-4b51-8829-6def3dc65834)
