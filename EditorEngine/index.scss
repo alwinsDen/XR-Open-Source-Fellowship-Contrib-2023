@@ -1,0 +1,26 @@
+.bannerDiv {
+  background: #000000;
+  display: flex;
+  align-items: center;
+  padding: 10px 30px;
+  height: 72px;
+
+  img {
+    width: 350px;
+  }
+}
+
+.editorEngine {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+
+  .editorSection {
+    display: flex;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .editorEngine {
+    display: none;
+  }
+}

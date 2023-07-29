@@ -1,0 +1,135 @@
+.sectionOne {
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+  position: relative;
+  height: 100%;
+
+  .DupDelDiv {
+    display: flex;
+    gap: 9px;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    bottom: 20px;
+  }
+
+  .dimenClass {
+    width: 38px;
+    height: 30px;
+    padding: 0;
+    background: rgba(244, 244, 244, 0.90);
+    border-radius: 5px;
+    text-align: center;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    outline: none;
+    border: none;
+  }
+
+  .selPipeline {
+    height: 27px;
+    margin-top: 10px;
+    width: 100%;
+    background: rgba(244, 244, 244, 0.90);
+    border-radius: 5px;
+    padding-left: 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+  }
+
+  .prevImageDev {
+    margin-top: 10px;
+    height: 74px;
+    overflow: hidden;
+    //border: 1px solid #D8D8D8;
+    border-radius: 5px;
+    border: none;
+    width: 74px;
+  }
+
+  .productName {
+    height: 27px;
+    width: 100%;
+    background: rgba(244, 244, 244, 0.90);
+    border-radius: 5px;
+    outline: none;
+    margin-top: 10px;
+    border: none;
+    font-size: 13px;
+  }
+
+  .prodNameTitle {
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 20px;
+  }
+
+  .productTitle {
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+    margin-top: 36px;
+  }
+
+  .uploadAsset {
+    height: 38px;
+    background: #E70A4E;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 20px;
+    appearance: none;
+    border: none;
+    width: 100%;
+  }
+
+  .uploadAssetOne {
+    height: 38px;
+    background: #E70A4E;
+    border-radius: 10px;
+    background: linear-gradient(0deg, #D31027, #D31027),
+    linear-gradient(0deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.14));
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 20px;
+    appearance: none;
+    border: none;
+    width: 100%;
+  }
+
+  .uploadBox {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    height: 123px;
+    justify-content: space-evenly;
+    border: 0.5px dashed #D6D6D6;
+    border-radius: 8px;
+    margin-top: 20px;
+
+    img {
+      width: 20px;
+    }
+
+    p {
+      font-size: 14px;
+    }
+  }
+
+  .assetBox {
+    height: 140px;
+    background: lightgrey;
+  }
+
+  .dimensionsDiv {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+}

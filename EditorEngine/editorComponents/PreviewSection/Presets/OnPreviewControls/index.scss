@@ -1,0 +1,152 @@
+.OnPreviewControlsDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  //height: 100vh;
+  .draggableComp {
+    background: #ffffff;
+    width: max-content;
+    height: max-content;
+    position: absolute;
+    top: 50px;
+    left: 70px;
+    border-radius: 20px;
+    padding-bottom: 25px;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+
+    .dragControls {
+      display: flex;
+      justify-content: space-between;
+      margin-right: 20px;
+      align-items: center;
+      margin-top: 10px;
+
+      .inputDisplay {
+        font-size: 15px;
+        width: 100px;
+        text-align: center;
+      }
+
+      p {
+        font-size: 17px;
+        padding-left: 10px;
+      }
+
+      //  here is the code for the input custom styling
+      input[type="range"] {
+        margin: auto;
+        -webkit-appearance: none;
+        position: relative;
+        overflow: hidden;
+        height: 20px;
+        width: 200px;
+        cursor: pointer;
+        border-radius: 0; /* iOS */
+      }
+
+      ::-webkit-slider-runnable-track {
+        background: #ddd;
+      }
+
+      ::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        width: 20px; /* 1 */
+        height: 20px;
+        background: #fff;
+        box-shadow: -200px 0 0 200px dodgerblue; /* 2 */
+        border: 2px solid #999; /* 1 */
+      }
+
+      ::-moz-range-track {
+        height: 20px;
+        background: #ddd;
+      }
+
+      ::-moz-range-thumb {
+        background: #fff;
+        height: 20px;
+        width: 20px;
+        border: 3px solid #999;
+        border-radius: 0 !important;
+        box-shadow: -200px 0 0 200px dodgerblue;
+        box-sizing: border-box;
+      }
+
+      ::-ms-fill-lower {
+        background: dodgerblue;
+      }
+
+      ::-ms-thumb {
+        background: #fff;
+        border: 2px solid #999;
+        height: 20px;
+        width: 20px;
+        box-sizing: border-box;
+      }
+
+      ::-ms-ticks-after {
+        display: none;
+      }
+
+      ::-ms-ticks-before {
+        display: none;
+      }
+
+      ::-ms-track {
+        background: #ddd;
+        color: transparent;
+        height: 20px;
+        border: none;
+      }
+
+      ::-ms-tooltip {
+        display: none;
+      }
+    }
+
+    .dragHeader {
+      display: flex;
+      justify-content: space-between;
+      padding: 20px;
+      align-items: center;
+      cursor: grab;
+
+      p {
+        font-size: 20px;
+      }
+    }
+
+  }
+
+  .prevButtonControl {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+
+    .indiControls {
+      width: max-content;
+      cursor: pointer;
+      display: flex;
+      position: relative;
+
+      div {
+        margin-left: 10px;
+      }
+    }
+  }
+
+  .prevRButtonControl {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    //padding: 10px 5px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    //justify-content: center;
+    gap: 20px;
+  }
+}

@@ -1,0 +1,53 @@
+.sectionThreeDiv {
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+
+  .uploadAsset {
+    height: 38px;
+    background: #E70A4E;
+    border-radius: 10px;
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 20px;
+    appearance: none;
+    border: none;
+  }
+
+  .DupDelDiv {
+    display: flex;
+    gap: 9px;
+    align-items: center;
+    margin-top: 14px;
+  }
+
+  .confName {
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+  }
+
+  .configHead {
+    font-size: 14px;
+    color: #000000;
+  }
+
+  .sectionThreeTitle {
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+  }
+
+  .configBox {
+    height: max-content;
+    border-radius: 10px;
+    background: rgba(244, 244, 244, 0.90);
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.10);
+    margin: 12px 0 0;
+    padding: 14px 0;
+  }
+}
+
+.midBoldclass {
+  font-weight: 430;
+}

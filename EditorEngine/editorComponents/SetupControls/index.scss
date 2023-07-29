@@ -1,0 +1,37 @@
+.setupControls {
+  background: #ffffff;
+  overflow-y: scroll;
+  width: 100%;
+
+  display: grid;
+  grid-template-areas:
+  'buttonC'
+  'sectionC';
+  grid-template-rows: 45px 1fr;
+
+  .SectionControl {
+    grid-area: sectionC;
+  }
+
+  .buttonControl {
+    grid-area: buttonC;
+  }
+
+  .buttonControl {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    width: 90%;
+    border-bottom: 1px solid #DCDCDC;
+
+    button {
+      background: none;
+      border: none;
+      width: 31px;
+      height: 31px;
+    }
+  }
+
+}

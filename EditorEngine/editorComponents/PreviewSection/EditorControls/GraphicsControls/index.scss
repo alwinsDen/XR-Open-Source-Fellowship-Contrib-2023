@@ -1,0 +1,27 @@
+
+
+.graphicsControlDrag {
+  position: absolute;
+  top: 230px;
+  left: 1120px;
+  background: #ffffff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  width: 243px;
+}
+
+.graphicControlPop {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 3px 25px;
+  position: absolute;
+  min-width: max-content;
+  left: 30px;
+  top: 0;
+  cursor: default;
+
+  .headerPop {
+    margin: 12px 0;
+    cursor: pointer;
+  }
+}

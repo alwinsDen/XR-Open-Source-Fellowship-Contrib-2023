@@ -1,0 +1,111 @@
+//fushion drags
+
+.fusionDragComp {
+  position: absolute;
+  top: 20px;
+  left: 550px;
+  background: #ffffff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  width: 302.4px;
+}
+
+.nameSection {
+  margin-top: 20px;
+
+  & > p:first-child {
+  }
+
+  & > p:nth-child(2) {
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+}
+
+.positionControls {
+
+  .positionSelector {
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+
+  p {
+    margin-top: 10px;
+  }
+}
+
+.saveButton {
+  width: 54px;
+  height: 31px;
+  border: 0.5px solid #E70A4E;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #E70A4E;
+}
+
+.redButtonClass {
+  padding: 9px 10px;
+  height: 31px;
+  background: #E70A4E;
+  border-radius: 8px;
+  font-size: 11px;
+  border: none;
+  color: #ffffff;
+}
+
+.cameraControlsDraggable {
+  position: absolute;
+  top: 20px;
+  left: 230px;
+  background: #ffffff;
+  padding: 15px 20px;
+  border-radius: 10px;
+  width: 302.4px;
+
+
+  .materialSection {
+    .materialSelector {
+      display: flex;
+      gap: 5px;
+      margin-top: 5px;
+    }
+
+
+    p {
+      margin-top: 10px;
+    }
+  }
+
+  .dragHeader {
+    display: flex;
+    justify-content: space-between;
+
+    p {
+      font-size: 12px;
+    }
+  }
+}
+
+.cameraControlsPop {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 3px 25px;
+  position: absolute;
+  min-width: 150px;
+  left: 30px;
+  top: 0;
+  cursor: default;
+
+  .hybridList {
+    p {
+      font-size: 11px;
+      margin-top: 10px;
+    }
+  }
+
+  .mainPropControl {
+    margin: 12px 0;
+  }
+}
