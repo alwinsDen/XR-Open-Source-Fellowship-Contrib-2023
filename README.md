@@ -5,6 +5,9 @@
  
 <p>I have contributed around 200+ commits to this project during the fellowship phase which ended in July 2023.</p>
 
+## Complete demo (youtube)
+[![Video](https://img.youtube.com/vi/dNnB43yC0T0/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+
 ## Original repository (private)
 
 ![mainpageOriginal](https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/e67047d7-f381-4aab-b514-b0d7a081bb9e)
