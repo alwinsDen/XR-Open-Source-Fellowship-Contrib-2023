@@ -6,7 +6,7 @@
 <p>I have contributed around 200+ commits to this project during the fellowship phase which ended in July 2023.</p>
 
 ## Complete demo (youtube)
-[![Video](https://img.youtube.com/vi/dNnB43yC0T0/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://img.youtube.com/vi/dNnB43yC0T0/maxresdefault.jpg)](https://www.youtube.com/watch?v=dNnB43yC0T0)
 
 ## Original repository (private)
 
