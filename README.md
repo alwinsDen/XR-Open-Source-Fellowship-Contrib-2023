@@ -1,7 +1,7 @@
 # XROS-Fellowship-Contrib-2023 @ MomentumX(form. Hacedor)
 <img width="1470" alt="Screenshot 2023-10-10 at 9 04 41 AM" src="https://github.com/alwinsDen/XROS-Fellowship-Contrib-2023/assets/75517758/b860dcb0-86d5-411b-8919-c31cf6a7eb91">
 
-<b>The original repository of my contributions is private. So I have hand picked the part of repository I have contributed the most to during XROS Fellowship 2023 for MomentumX Organization</b>
+<b>I have hand picked the part of repository I have contributed the most to during XROS Fellowship 2023 for MomentumX Organization. The original repository of my contributions is private.</b>
  
 <p>I have contributed around 200+ commits to this project during the fellowship phase which ended in July 2023.</p>
 
